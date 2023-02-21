@@ -1,2 +1,6 @@
 
 but implemented the the java
+
+a = narasimha 
+b = set{a}
+print (b):
